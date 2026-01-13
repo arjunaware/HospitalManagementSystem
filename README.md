@@ -57,6 +57,6 @@ exception → Global Exception Handling
 ---
 
 ## 📌 Note
-This is a backend-only project and can be integrated with any frontend application.
+This is a backend-only project and can be integrated with any frontend application .
 
 
